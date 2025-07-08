@@ -21,13 +21,4 @@ A responsive and stylish music player web application inspired by Spotify's UI/U
 - CSS3 (Flexbox, Grid, Transitions)
 - JavaScript (Vanilla)
 
-## 📸 Screenshots
-
-| Desktop | Mobile |
-|--------|--------|
-| ![desktop]((https://github.com/user-attachments/assets/f3d6213a-d3d5-4775-8eb8-04e2b30a1f47)) | ![mobile](screenshots/mobile.png) |
-
-> *(Add your own screenshots in the `/screenshots` folder)*
-
-## 📁 Folder Structure
 
