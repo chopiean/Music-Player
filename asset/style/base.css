@@ -1,0 +1,67 @@
+
+  @media screen and (min-width: 600px) {
+    .app {
+      max-width: 600px;
+      margin: 0 auto;
+    }
+  
+    .cd {
+      width: 250px;
+      height: 250px;
+    }
+  
+    .btn {
+      font-size: 28px;
+    }
+  
+    .volume__slider {
+      width: 150px;
+    }
+  }
+  
+  @media screen and (min-width: 1024px) {
+    .app {
+      max-width: 800px;
+      flex-direction: row;
+      gap: 32px;
+    }
+  
+    .main {
+      width: 60%;
+      align-items: flex-start;
+    }
+  
+    .song-list {
+      width: 40%;
+      max-height: 600px;
+      border-left: 1px solid #333;
+      padding-left: 16px;
+    }
+  
+    .footer {
+      justify-content: space-between;
+      flex-direction: row;
+      width: 100%;
+    }
+  }
+  #playlist {
+    scroll-behavior: smooth;
+    scrollbar-width: thin;
+    scrollbar-color: #1db954 transparent;
+  }
+  
+  #playlist::-webkit-scrollbar {
+    width: 6px;
+    opacity: 0;
+    transition: opacity 0.3s;
+  }
+  
+  #playlist:hover::-webkit-scrollbar {
+    opacity: 1;
+  }
+  
+  #playlist::-webkit-scrollbar-thumb {
+    background: #1db954;
+    border-radius: 3px;
+  }
+  
