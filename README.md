@@ -25,7 +25,7 @@ A responsive and stylish music player web application inspired by Spotify's UI/U
 
 | Desktop | Mobile |
 |--------|--------|
-| ![desktop]([screenshots/desktop.png](https://github.com/user-attachments/assets/f3d6213a-d3d5-4775-8eb8-04e2b30a1f47)) | ![mobile](screenshots/mobile.png) |
+| ![desktop]((https://github.com/user-attachments/assets/f3d6213a-d3d5-4775-8eb8-04e2b30a1f47)) | ![mobile](screenshots/mobile.png) |
 
 > *(Add your own screenshots in the `/screenshots` folder)*
 
