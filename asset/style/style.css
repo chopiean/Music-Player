@@ -318,4 +318,20 @@
   .footer__credits a:hover {
     color: #1db954;
   }
+  .lyrics {
+    max-height: 200px;
+    overflow-y: auto;
+    margin-top: 16px;
+    text-align: center;
+    color: #fff;
+    font-size: 14px;
+    line-height: 1.6;
+    scroll-behavior: smooth;
+  }
+  
+  .lyrics p.active {
+    color: #1DB954;
+    font-weight: bold;
+  }
+  
   
